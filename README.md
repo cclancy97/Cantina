@@ -7,5 +7,7 @@ First and foremost, I understand this does not function exactly as planned. Howe
 ---
 Side note: there may be such a thing as too many comments after looking at this. I did also attempt to solve this using an http request instead of having the file locally, but it seemed like locally was the way to go.
 
+Update: Upon further research, implementing this in python seems like it would be an easier solution and just a better tool for the job. Potentially ruby as well might be better.
+
 I appreciate your time and consideration!
 ---
