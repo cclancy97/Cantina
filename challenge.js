@@ -1,5 +1,5 @@
 // access filesystem
-var fs = require('fs')
+let fs = require('fs')
 // readlineSync package to easily ask questions
 let readlineSync = require('readline-sync')
 
